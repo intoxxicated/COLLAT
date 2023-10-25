@@ -1,0 +1,13 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">PUSSGRC</string>
+
+    <string name="bold" tools:ignore="ReferenceType">@font/robotobold</string>
+    <string name="light" tools:ignore="ReferenceType">@font/robotolight</string>
+    <string name="regular" tools:ignore="ReferenceType">@font/robotoregular</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="start">Start</string>
+    <string name="close">Close</string>
+
+    <string name="about_clg">Buddha Institute of Technology, Gorakhpur also known as BIT, Gorakhpur, established in 2009, is a private degree engineering college situated in Gorakhpur, Uttar Pradesh, India. It offers undergraduate and post-graduate engineering programs in electronics and communication engineering, mechanical engineering, civil engineering, information technology and computer science.</string>
+</resources>
